@@ -5,8 +5,7 @@
   <key>public.glyphOrder</key>
   <array>
     <string>.notdef</string>
-    <string>.null</string>
-    <string>nonmarkingreturn</string>
+    <string>NULL</string>
     <string>CR</string>
     <string>space</string>
     <string>exclam</string>
@@ -78,13 +77,13 @@
     <string>x</string>
     <string>y</string>
     <string>z</string>
-    <string>nbsp</string>
     <string>Aring</string>
     <string>AE</string>
     <string>Oslash</string>
     <string>aring</string>
     <string>ae</string>
     <string>oslash</string>
+    <string>zero</string>
   </array>
 </dict>
 </plist>

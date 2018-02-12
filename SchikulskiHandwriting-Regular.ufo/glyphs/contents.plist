@@ -4,10 +4,8 @@
 <dict>
   <key>.notdef</key>
   <string>__notdef.glif</string>
-  <key>.null</key>
-  <string>__null.glif</string>
-  <key>nonmarkingreturn</key>
-  <string>nonmarkingreturn.glif</string>
+  <key>NULL</key>
+  <string>NULL____.glif</string>
   <key>CR</key>
   <string>CR__.glif</string>
   <key>space</key>
@@ -150,8 +148,6 @@
   <string>y.glif</string>
   <key>z</key>
   <string>z.glif</string>
-  <key>nbsp</key>
-  <string>nbsp.glif</string>
   <key>Aring</key>
   <string>Aring_.glif</string>
   <key>AE</key>
@@ -164,5 +160,7 @@
   <string>ae.glif</string>
   <key>oslash</key>
   <string>oslash.glif</string>
+  <key>zero</key>
+  <string>zero.glif</string>
 </dict>
 </plist>
